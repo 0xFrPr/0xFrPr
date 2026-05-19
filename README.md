@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VkcnRmNms2c3BqNmV0NTljaTJibjk5enJmc29jMTFjZzIzYm1iayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YAZt1t8RmuotaXjemT/giphy.gif" alt="Flying Dragon" width="250">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VkcnRmNms2c3BqNmV0NTljaTJibjk5enJmc29jMTFjZzIzYm1iayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YAZt1t8RmuotaXjemT/giphy.gif" alt="Flying Dragon" width="500">
 </p>
 
 # 0xFrPr 
